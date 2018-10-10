@@ -1,5 +1,5 @@
 # Kauf_project
-# This project is about optimizing business processes inside the company
+# This project is about optimizing business processes inside the company (As a hobby, data provided by GlobalDatathon 2018)
 #
 library(dplyr)
 a <-subset(km, sensor_type == "drive_wheel_V_eff")
